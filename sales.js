@@ -58,7 +58,6 @@ function getCookie(cname) {
 }
 function calculateReceipt()
 {
-  alert("test");
   var receiptSubtotal;
   var receiptTax;
   var receiptTotal;
